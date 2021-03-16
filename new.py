@@ -7,7 +7,3 @@ print(count)
 print(nums)
 num = 31
 i = 2
-while i < num:
-    if num % i == 0:
-        print("i am not done")
-    break
