@@ -23,3 +23,4 @@ elif (Avarage>70 and Avarage<79):
     print("Your grade is (A)")
 else:
     print("Your grad is (F)")
+
